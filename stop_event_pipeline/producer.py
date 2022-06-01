@@ -29,7 +29,7 @@ from datetime import datetime
 import os
 
 # current_file_path = os.getcwd()
-current_file_path = "/home/reeya/stop_event_data"
+current_file_path = "/home/ajaybabu/stop_event_data"
 # directory_path = os.path.join(current_file_path, "Data")
 # date = datetime.today().strftime('%Y-%m-%d')
 # file_name = date + str(".json")

@@ -30,7 +30,7 @@ import os
 import ast
 
 
-current_file_path = "/home/reeya/consumed_data"
+current_file_path = "/home/ajaybabu/consumed_data"
 # directory_path = os.path.join(current_file_path, "Data")
 
 
